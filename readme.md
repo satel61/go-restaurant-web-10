@@ -1,12 +1,13 @@
 # Desafio 10: GoRestaurant Web
 
 
+![GO RESTAURANT WEB](https://github.com/satel61/go-restaurant-web-10/blob/master/go-restaurant.gif)
+
 ## Sobre o desafio
 
 Nesse desafio, você irá desenvolver mais uma aplicação, a GoRestaurant. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
 
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
-
 
 ## Utilizando uma fake API
 Antes de tudo, para que você tenha os dados para exibir em tela, criamos um arquivo que você poderá utilizar como fake API para te prover esses dados.
